@@ -4,7 +4,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Création d'un patient</title>
+        <title>Création d'un patient bouuuuuuurriiiiiikooo</title>
         <link type="text/css" rel="stylesheet" href="<c:url value="/inc/style.css"/>" />
     </head>
     <body>
